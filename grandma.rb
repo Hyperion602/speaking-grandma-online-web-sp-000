@@ -8,6 +8,3 @@ def speak_to_grandma(greeting)
   else
   end
 end
-
-
-    
